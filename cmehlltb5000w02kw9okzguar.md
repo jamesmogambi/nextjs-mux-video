@@ -1,12 +1,12 @@
 ---
-title: "Build M-Pesa STK Push Payments in Your React Native App with Daraja API"
-seoTitle: "How to integrate the Mpesa STK push API in React Native."
-seoDescription: "Learn how to integrate the M-Pesa STK Push API into your React Native app step by step. This guide covers setting up the Daraja API, configuring your Expres"
+title: "React Native M-Pesa Payments: STK Push Integration Guide with Daraja"
+seoTitle: "React Native M-Pesa Payments: STK Push Integration Guide with Daraja."
+seoDescription: "Learn how to integrate the M-Pesa STK Push API into your React Native app step by step. This guide covers setting up the Daraja API"
 datePublished: Mon Aug 18 2025 20:59:37 GMT+0000 (Coordinated Universal Time)
 cuid: cmehlltb5000w02kw9okzguar
-slug: build-m-pesa-stk-push-payments-in-your-react-native-app-with-daraja-api
+slug: react-native-m-pesa-payments-stk-push-integration-guide-with-daraja
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/z9CgKNW_Nq8/upload/89b1886cd8a99bfb3587c4593af72ac5.jpeg
-tags: react-native, nodejs, expressjs-cilb5apda0066e053g7td7q24, fintech, daraja-api, mpesa-integration-nodejs, paymentintegration
+tags: ngrok, javascript, ios, react-native, nodejs, android, typescript, expressjs-cilb5apda0066e053g7td7q24, expo, fintech, mpesa, tailwind-css, daraja-api, mpesa-integration-nodejs, paymentintegration
 
 ---
 
