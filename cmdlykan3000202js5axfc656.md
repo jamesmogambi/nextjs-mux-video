@@ -1,12 +1,12 @@
 ---
-title: "Real-Time Video Streaming  Using MUX API and Next.js"
+title: "Next.js + MUX: Real-Time Video Streaming Integration Guide"
 seoTitle: "Build a Scalable Video Platform with MUX Video API and Next.js"
 seoDescription: "How to Build a Robust Video Flow with MUX & Next.js (Uploads, Playback, Webhooks)"
 datePublished: Sun Jul 27 2025 17:33:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmdlykan3000202js5axfc656
 slug: real-time-video-streaming-and-webhook-automation-using-mux-api-and-nextjs
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KieCLNzKoBo/upload/b7d6d0dceefdc26ffe8efcc73f4437fc.jpeg
-tags: fullstack, javascript, reactjs, typescript, webhooks, frontend-development, serverless, developer-tools, nextjs, mux, video-streaming, backend-development, webhook, api-integration
+tags: fullstack, javascript, reactjs, typescript, webhooks, frontend-development, serverless, developer-tools, nextjs, mux, video-streaming, backend-development, webhook, tailwind-css, api-integration
 
 ---
 
